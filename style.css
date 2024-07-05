@@ -1,0 +1,225 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  }
+
+.container{
+  display: flex;
+  height: 100vh;
+}
+
+.links{
+  display: block;
+  text-decoration: none;
+  color: white ;
+  padding: 3%;
+}
+
+.sidebar{
+   font: 1em sans-serif;
+   text-align: center;
+   width: 23%;
+   height: 100%;
+   background-color: rgb(39, 97, 49);
+  }
+
+ .card img{
+   width: 180px;
+   height: 180px;
+   margin: 10vh;
+  padding: 0;
+  border: 5px solid white;
+  border-radius: 50%;
+  }
+
+  /* .id{
+ text-decoration: none; 
+  } */
+
+  .content{
+    max-height: 100%;
+   width: 76%;
+   background-color: rgb(250, 252, 252);
+   display: inline-block;
+   padding: 10%;
+   overflow: auto;
+   }
+ 
+   .h1-1{
+  padding: 5%;
+  color: #6c757d;
+  font-size: 20px;
+  }
+
+#about{
+  font-size: 50px;
+  }
+ 
+  .highlighting-word-color{
+    color: rgb(39, 97, 49);
+   }
+
+  .highlighting-color-size{
+    color: rgb(39, 97, 49);
+    font-size: 25px;
+    }
+  
+   .icons {
+    font-size: 50px;
+    letter-spacing: 0.2em;
+    padding: 30px 30px 60px 110px;
+    border-bottom: 1px solid black
+    }
+
+   #experience{
+    letter-spacing: 0.04em;
+    font-size: 45px;
+    text-align: left;
+    padding: 50px 50px 0px 1px;
+   }
+
+   .p-0{
+    font-size: 25px;
+  padding: 30px 45px 55px 0px;
+ }
+  
+.h1-date{
+    text-align: left;
+    padding: 40px 50px 0px 0px 
+  }
+
+  
+  .h1-date span{
+    font-size: 20px;
+  color: rgb(146, 25, 25);
+  text-align: left;
+  padding: 0px 0px 0px 120px ;
+ }
+  
+ .p-1{
+  font-size: 20px;
+  padding: 30px 45px 55px 0px;
+ }
+
+
+ .h2-date{
+  text-align: left;
+    padding: 30px 50px 0px 0px
+ }
+
+ .h2-date span{
+  font-size: 20px;
+  color: rgb(146, 25, 25);
+  text-align: left;
+  padding: 0px 0px 0px 120px
+ }
+
+ .p-2{
+  font-size: 20px;
+  padding: 30px 45px 55px 0px;
+ }
+
+ .h3-date{
+  text-align: left;
+    padding: 30px 50px 0px 0px
+ }
+
+ .h3-date span{
+  font-size: 20px;
+  color: rgb(146, 25, 25);
+  text-align: left;
+  padding: 0px 0px 0px 120px
+ }
+
+ .p-3{
+  font-size: 20px;
+  padding: 30px 45px 55px 0px;
+ }
+
+ .h4-date{
+    text-align: left;
+    padding: 30px 50px 0px 0px
+ }
+
+ .p-4{
+  font-size: 20px;
+  padding: 30px 45px 55px 0px;
+  border-bottom: 1px solid black
+ }
+
+  #education{
+  letter-spacing: 0.04em;
+font-size: 45px;
+text-align: left;
+padding: 70px 50px 0px 1px;
+ }
+ 
+ .h5-date{
+    text-align: left;
+    padding: 30px 50px 0px 0px
+ }
+
+ .p-5{
+ font-size: 20px;
+  padding: 5px 45px 40px 0px;
+ }
+
+ .h6-date{
+    text-align: left;
+    padding: 30px 50px 0px 0px
+ }
+ .p-6{
+  font-size: 20px;
+  padding: 3px 45px 40px 0px;
+  border-bottom: 1px solid black
+ }
+#skills{
+  letter-spacing: 0.04em;
+font-size: 45px;
+text-align: left;
+padding: 70px 50px 0px 1px;
+}
+
+.h7-date{
+  text-align: left;
+    padding: 30px 50px 0px 0px
+}
+.p-7{
+  font-size: 20px;
+  padding: 3px 45px 40px 0px;
+  border-bottom: 1px solid black
+}
+
+#interests{
+  letter-spacing: 0.04em;
+font-size: 45px;
+text-align: left;
+padding: 70px 50px 0px 1px;
+}
+.p-8{
+  font-size: 20px;
+  padding: 3px 45px 40px 0px;
+  border-bottom: 1px solid black
+}
+
+#awards{
+  letter-spacing: 0.04em;
+font-size: 45px;
+text-align: left;
+padding: 70px 50px 0px 1px;
+}
+.p-9{
+  font-size: 20px;
+  padding: 3px 45px 40px 0px;
+  border-bottom: 1px solid black
+}
+   
+
+
+
+
+    
+
+
